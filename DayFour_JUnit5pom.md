@@ -46,11 +46,6 @@ If you are suitably interested in the minutae of why this configuration is requi
                 <artifactId>junit-jupiter-api</artifactId>
                 <version>RELEASE</version>
             </dependency>
-            <dependency>
-                <groupId>org.junit.jupiter</groupId>
-                <artifactId>junit-jupiter-api</artifactId>
-                <version>RELEASE</version>
-            </dependency>
         </dependencies>
 
 
