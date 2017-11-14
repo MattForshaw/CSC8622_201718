@@ -2,6 +2,8 @@
 
 If you are wishing to use [JUnit 5](http://junit.org/junit5/) through Maven, please add the following `build` block to your `pom.xml` file. You can run your test within IntelliJ without this step, but this will be required in order to build and automatically run your tests using Maven on the command line.
 
+If you are suitably interested in the minutae of why this configuration is required, you can find out more [here](http://junit.org/junit5/docs/current/user-guide/#running-tests-build-maven).
+
     <?xml version="1.0" encoding="UTF-8"?>
     <project xmlns="http://maven.apache.org/POM/4.0.0"
              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
